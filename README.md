@@ -6,8 +6,8 @@ This project is a SQL-based backend system designed to manage inventory across m
 To design a SQL backend that tracks stock levels, triggers low-stock alerts, and enables stock transfers between warehouses.
 
 ## 🧰 Tools Used
-- MySQL / SQL Workbench
-- DBeaver (optional)
+- MySQL Workbench
+- DBeaver
 - Excel (for visualization)
 - GitHub (for documentation)
 
